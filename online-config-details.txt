@@ -1,0 +1,19 @@
+Databse details 
+
+----------------
+
+For dooarsdhaba cpanel
+
+database name : smarthospital_db
+
+User : smarthospital_db
+
+pass : 8C!2LrKJOhCG
+
+
+For mochahost(softhills)cpanel
+
+database name : khabar24_smarthospital
+
+User : khabar24_hms
+pass : 8C!2LrKJOhCG

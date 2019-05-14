@@ -1,0 +1,3 @@
+[21-Dec-2016 18:06:39 UTC] PHP Fatal error:  Call to undefined method DOMText::getAttribute() in /home/softhillscare/public_html/smarthospital/application/libraries/dompdf/include/cellmap.cls.php on line 437
+[21-Dec-2016 18:07:04 UTC] PHP Fatal error:  Call to undefined method DOMText::getAttribute() in /home/softhillscare/public_html/smarthospital/application/libraries/dompdf/include/cellmap.cls.php on line 437
+[11-Apr-2017 19:00:35 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/softhillscare/public_html/smarthospital/application/controllers/Opdpaitent.php on line 208
